@@ -1,3 +1,4 @@
 
-IDE: Atollic Studio V9.00
-HRD: stm32f4 development board
+-Atollic Studio V9.00
+
+-stm32f4 development board

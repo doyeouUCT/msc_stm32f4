@@ -1,4 +1,4 @@
 # stm32f4_dev
 
-Used platform
+- stm32f4 development board
 - Atollic Studio V9.00
